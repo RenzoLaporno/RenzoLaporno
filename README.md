@@ -1,10 +1,6 @@
-<div align="center">
-
-# 🎨 Renz — Perfolio
-
-### *A passionate Software Developer · building with care & craft.*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8C6E4A&height=180&section=header&text=Renz&fontSize=60&fontColor=D4A574&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20building%20with%20care%20%26%20craft&descAlignY=55&descSize=18&descColor=E8DCC8" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=D4A574&center=true&vCenter=true&width=650&lines=Hand-painted+with+HTML+%26+CSS...+and+a+lot+of+TypeScript;Mixing+the+palette%3A+Next.js+%2B+Node+%2B+Postgres;Currently+priming+brushes+for+remote%2C+USD-comp+roles" alt="Typing SVG" />
@@ -18,7 +14,9 @@
 
 <p align="center"><em>EST · 2024 — Iloilo City → Worldwide</em></p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ## 🖌️ Mixing the Palette
 
@@ -34,7 +32,9 @@ Full-stack developer building production systems at an agency — owning the sta
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ## 🖼️ Things I've Shipped
 
@@ -67,7 +67,9 @@ Official site for the JCI Regatta Iloilo sailing competition — event schedules
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ## 🎨 The Palette I Work With
 
@@ -127,7 +129,9 @@ Official site for the JCI Regatta Iloilo sailing competition — event schedules
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ## 🧭 Where I've Been Building Things
 
@@ -150,7 +154,9 @@ Feb 2024 — Jun 2024      Kachick · Frontend Developer
                          UX aligned to brand identity.
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ## 📊 Studio Activity
 
@@ -166,7 +172,9 @@ Feb 2024 — Jun 2024      Kachick · Frontend Developer
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 <div align="center">
 
