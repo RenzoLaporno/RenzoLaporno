@@ -13,6 +13,16 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%">
+  </picture>
+</p>
+
+---
+
 ### 🚀 About Me
 
 I'm a full-stack engineer currently working full-time at **Prometheus PH**, where I design and ship production systems end to end — from database schema to deployed infrastructure. I graduated with a BS in Software Engineering from Central Philippine University in 2025, and I'm now looking for **remote, USD-compensated roles** where I can keep doing that at a bigger scale.
@@ -63,6 +73,10 @@ I like owning things fully: architecture decisions, migrations, DNS/infra headac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoLaporno&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoLaporno&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
