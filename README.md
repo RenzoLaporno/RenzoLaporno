@@ -20,16 +20,6 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%">
-  </picture>
-</p>
-
----
-
 ## 🖌️ Mixing the Palette
 
 Full-stack developer building production systems at an agency — owning the stack end to end: frontend, backend, database, auth, and deployment. I ship real enterprise software, care deeply about craft and user experience, and bring 3D, animation, and AI into production. I move fast, iterate often, and never settle for good enough.
