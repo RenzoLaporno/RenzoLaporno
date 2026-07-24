@@ -169,7 +169,11 @@ Feb 2024 — Jun 2024      Kachick · Frontend Developer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoLaporno&custom_title=Painting%20my%20commits%2C%20one%20day%20at%20a%20time&bg_color=1a1a1a&hide_border=true&border_radius=8&area=true&color=D4A574&line=D4A574&point=ffffff&area_color=D4A574&title_color=D4A574&text_color=E8DCC8" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenzoLaporno/RenzoLaporno/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenzoLaporno/RenzoLaporno/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/RenzoLaporno/RenzoLaporno/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%">
+  </picture>
 </p>
 
 ---
