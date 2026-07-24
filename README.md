@@ -15,7 +15,7 @@
 <p align="center"><em>EST · 2024 — Iloilo City → Worldwide</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:8C6E4A&height=12&section=header&waveWidth=60&waveAmplitude=3" width="100%"/>
 </p>
 
 ## 🖌️ Mixing the Palette
@@ -33,7 +33,7 @@ Full-stack developer building production systems at an agency — owning the sta
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:8C6E4A&height=12&section=header&waveWidth=60&waveAmplitude=3" width="100%"/>
 </p>
 
 ## 🖼️ Things I've Shipped
@@ -68,7 +68,7 @@ Official site for the JCI Regatta Iloilo sailing competition — event schedules
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:8C6E4A&height=12&section=header&waveWidth=60&waveAmplitude=3" width="100%"/>
 </p>
 
 ## 🎨 The Palette I Work With
@@ -130,7 +130,7 @@ Official site for the JCI Regatta Iloilo sailing competition — event schedules
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:8C6E4A&height=12&section=header&waveWidth=60&waveAmplitude=3" width="100%"/>
 </p>
 
 ## 🧭 Where I've Been Building Things
@@ -155,7 +155,7 @@ Feb 2024 — Jun 2024      Kachick · Frontend Developer
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:8C6E4A&height=12&section=header&waveWidth=60&waveAmplitude=3" width="100%"/>
 </p>
 
 ## 📊 Studio Activity
@@ -173,7 +173,7 @@ Feb 2024 — Jun 2024      Kachick · Frontend Developer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:8C6E4A&height=3&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a1a,100:8C6E4A&height=12&section=header&waveWidth=60&waveAmplitude=3" width="100%"/>
 </p>
 
 <div align="center">
